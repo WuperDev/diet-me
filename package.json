@@ -1,0 +1,18 @@
+{
+  "name": "recipe-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run:server": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "jspdf": "^2.5.1",
+    "lowdb": "^5.1.0",
+    "require": "^2.4.20"
+  }
+}

@@ -1,0 +1,174 @@
+body {
+  background-color: white;
+  font-family: Arial, sans-serif;
+  
+}
+
+h1 {
+  text-align: center;
+  font-size: 36px;
+  margin-top: 50px;
+}
+
+#form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+label {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+input[type="number"] {
+  width: 200px;
+  height: 30px;
+  padding: 10px;
+  background-color: #f2f2f2;
+  border-radius: 5px;
+  border: 3px solid #ccc;
+  text-align: center;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+  transition: all 0.3s ease-in-out;
+}
+
+input[type="number"]:focus {
+  outline: none;
+  border-color: #4CAF50;
+  background-color: #e6e6e6;
+  }
+  
+  input[type="number"]:hover {
+  border-color: #4CAF50;
+  background-color: #e6e6e6;
+  }
+
+button {
+  width: 150px;
+  height: 40px;
+  background-color: #4CAF50;
+  color: #fff;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin: 10px 10px;
+}
+
+button:hover {
+  background-color: #3e8e41;
+}
+
+.active {
+  align-items: center;
+  width: 20%;
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px 10px;
+  /* background-color: lightgray; */
+  border-radius: 10px;
+  text-align: center;
+  margin: 20px auto;
+  }
+
+table {
+  width: 60%;
+  margin: 50px auto;
+  border-collapse: collapse;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px #888888;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color: #4CAF50;
+  color: #fff;
+  font-size: 18px;
+}
+
+td {
+  font-size: 16px;
+}
+
+
+.meal-details {
+  display: none;
+  margin: 10px auto;
+  width: 60%;
+  background-color: white;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+#meal-name {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+#meal-description {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+#meal-ingredients {
+  list-style-type: square;
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.show {
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px #888888;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.show h2 {
+  text-align: center;
+}
+
+.show h3 {
+  margin-top: 20px;
+}
+
+.show p {
+  margin-top: 10px;
+  text-align: justify;
+}
+
+#close-details-btn{
+  margin: 0 auto;
+  text-align: center;
+  display: block;
+  margin-top: 20px;
+}
+
+#download-section {
+  margin: 0 auto;
+  text-align: center;
+  display: block;
+  margin-top: 18px;
+}
+
+#calories-input-message {
+  color: red;
+}
+
+#diet {
+  display: none;
+}
