@@ -1,0 +1,184 @@
+/* Resetowanie stylów */
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+@keyframes fadeIn {
+	from {
+	  opacity: 0;
+	}
+	to {
+	  opacity: 1;
+	}
+  }
+
+/* Style dla całej strony */
+body {
+	font-family: Arial, sans-serif;
+	display: flex;
+  	flex-direction: column;
+  	min-height: 100vh;
+	animation: fadeIn 1s ease-in-out;
+}
+
+/* Styl nagłówka */
+header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: #4CAF50;
+	padding: 20px;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  header div {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 26px;
+	font-weight: bold;
+	color: white;
+  }
+  
+  nav {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+  }
+  
+  nav ul {
+	display: flex;
+	list-style: none;
+	justify-content: center;
+	align-items: center;
+  }
+  
+  nav ul li {
+	margin: 0 10px;
+  }
+  
+  nav ul li.info a {
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 10px;
+  }
+
+  nav ul li.info a:hover{
+	color: black;
+	transition: color 0.2s ease-in-out;
+
+  }
+  
+  nav ul li i {
+	font-size: 30px;
+	color: white;
+	cursor: pointer;
+	transition: color 0.2s ease-in-out;
+  }
+  
+  nav ul li i:hover {
+	color: black;
+  }
+  
+
+/* Styl sekcji głównej */
+#hero-section {
+    text-align: center;
+	height: 100%;
+  }
+  .hero-section img {
+    /* position: relative; */
+    width: 100%;
+    height: 250px;
+  }
+  .hero-section button {
+    display: block;
+    margin: 50px auto;
+    background-color: #4CAF50;
+    color: #fff;
+    font-size: 24px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+    border: 1px solid black;
+	transition: all 0.3s ease;
+  }
+
+.hero-section button:hover {
+	background-color: #3e8e41;
+}
+
+.hero-section h2 {
+    margin-bottom: 10px;
+}
+
+.features-section {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: flex-start;
+	background-color: #fff;
+	padding: 50px;
+}
+
+.features-section h3 {
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.feature {
+	margin: 0 30px 30px 30px;
+	text-align: center;
+	max-width: 350px;
+}
+
+.feature img {
+	height: 60px;
+	margin-bottom: 20px;
+}
+
+.feature h4 {
+	margin-bottom: 10px;
+}
+
+.feature p {
+	line-height: 1.5;
+}
+/* Styl stopki */
+footer {
+	background-color: #4CAF50;
+	margin-top: auto;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+}
+
+.features-section i {
+    font-size: 55px;
+    margin-bottom: 20px;
+}
+
+nav i {
+    font-size: 35px;
+    padding: 10px;
+	transition: all 0.3s ease;
+}
+
+nav i:hover {
+    color: black;
+    cursor: pointer;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+  display: block;
+  margin: 0 ;
+}
+
+.logo img {
+	width: 100%;
+	height: 100%;
+}

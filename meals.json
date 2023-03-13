@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Jajecznica z cebulką i bułką",
+    "calories": 490,
+    "ingredients": "3 Jajka\nMasło 1 łyżeczka \n1 cebula\n1 Bułka grahamka\nSól, pieprz",
+    "instructions": "Cebulę pokrój w kostkę\nNa patelni rozpuść masło\nWrzuć cebulę na patelnie i duś do momentu aż się zeszkli\nNa patelnie wbij jajka dopraw solą i pieprzem smaż aż jajka się zetną, zjedz z bułką",
+    "protein": 28,
+    "carbs": 53,
+    "fats": 20
+  },
+  {
+    "name": "Jajka sadzone",
+    "calories": 140,
+    "ingredients": "2 jajka\n1 łyżka masła\nsól i pieprz do smaku",
+    "instructions": "Rozgrzej patelnię na średnim ogniu.\nRoztop masło na patelni.\nRozbij jajka na patelni.\nSmaż jajka na patelni przez około 2-3 minuty, aż białka zetną się, a żółtka pozostaną płynne.\nPosól i popieprz jajka do smaku.",
+    "protein": 12,
+    "carbs": 0,
+    "fats": 12
+  },
+  {
+    "name": "Kanapka z jajkiem i awokado",
+    "calories": 320,
+    "ingredients": "2 kromki chleba razowego\n1 jajko ugotowane na twardo\n1/2 awokado\n1 łyżka soku z cytryny\nsól i pieprz do smaku",
+    "instructions": "Ugotuj jajko na twardo.\nPokrój awokado na małe kawałki i wymieszaj z sokiem z cytryny, solą i pieprzem.\nRozłóż awokado na kromkach chleba.\nPokrój jajko na plasterki i połóż na awokado.\nPosól i popieprz kanapki do smaku.",
+    "protein": 18,
+    "carbs": 32,
+    "fats": 12
+  },
+  {
+    "name": "Jajecznica z pomidorami",
+    "calories": 330,
+    "ingredients": "2 jajka\n1 pomidor\n2 łyżki oliwy z oliwek\nsól, pieprz",
+    "instructions": "Pokrój pomidora w kostkę.\nRozgrzej oliwę na patelni.\nRozbij jajka i wlej na patelnię, dodaj pomidora i smaż na wolnym ogniu.\nPosól i popieprz do smaku.",
+    "protein": 18,
+    "carbs": 4,
+    "fats": 27
+  },
+  {
+    "name": "Kanapka z awokado i jajkiem",
+    "calories": 390,
+    "ingredients": "2 kromki chleba razowego\n1/2 awokado\n1 jajko\n1 łyżka masła orzechowego",
+    "instructions": "Rozpuść masło orzechowe w kąpieli wodnej.\nRozbij jajko na patelni i smaż na wolnym ogniu.\nRozgnieć awokado widelcem.\nUłóż awokado na kromkach chleba, dodaj jajko i skrop masłem orzechowym.",
+    "protein": 17,
+    "carbs": 31,
+    "fats": 23
+  },
+  {
+    "name": "Sałatka grecka",
+    "calories": 192,
+    "ingredients": "Pomidor 200g\n1 Ogórek 40g \nSer typu feta 30g\nOliwki zielone/czarne 25g\nSałata lodowa 5 liści\nZioła prowansalskie, sól, pieprz",
+    "instructions": "1. Pomidora i ogórka pokrój w cienkie plastry.\n2. Dodaj rozdrobnioną sałatę i ser feta.\n3. Dodaj oliwę, oliwki, zioła prowansalskie i dokładnie wymieszaj.",
+    "protein": 8,
+    "carbs": 12,
+    "fats": 13
+  },
+  {
+    "name": "Omlet z papryką i serem",
+    "calories": 292,
+    "ingredients": "Jaja kurze 2 × sztuka (120 g)\nPapryka 1.5 × plaster (45 g)\nSer żółty 1 × plaster (20 g)\nOlej 1 × łyżeczka (5 g)\nBazylia świeża 1 × garść (3 g)\nSól biała 1 × szczypta (1 g)\nPieprz czarny 1 × łyżeczka (1 g)",
+    "instructions": "1. Pokrój paprykę w drobną kostkę.\n2. Rozbij jajka i wymieszaj je w misce z papryką i przyprawami.\n3. Wlej tak przygotowaną masę na dobrze rozgrzaną patelnię z olejem kokosowym.\n4. Gdy omlet zacznie się ścinać, posyp go serem.\n5. Za pomocą łopatki złóż omlet na pół. Gdy zrobi się lekko brązowy od spodu, zdejmij go z patelni i przełóż na talerz.",
+    "protein": 21,
+    "carbs": 4,
+    "fats": 21
+  },
+  {
+    "name": "Sałatka z tuńczykiem i jajkiem",
+    "calories": 490,
+    "ingredients": "1 puszka tuńczyka w sosie własnym\n2 jajka\n1/2 cebuli\n1/2 pomidora\n2 łyżki oliwy z oliwek\nsól, pieprz\nkilka listków sałaty",
+    "instructions": "Ugotuj jajka na twardo, pokrój w kostkę.\nPokrój cebulę i pomidora w kostkę.\nOdcedź tuńczyka z puszki.\nUłóż sałatę na talerzu, na nią połóż tuńczyka, jajka, cebulę i pomidora.\nSkrop oliwą i dopraw solą i pieprzem.",
+    "protein": 32,
+    "carbs": 7,
+    "fats": 40
+  },
+  {
+    "name": "Sałatka z ryżem i tuńczykiem",
+    "calories": 270,
+    "ingredients": "Tuńczyk w sosie własnym 0.5 × opakowanie (60 g)\nRyż biały krótkoziarnisty 0.5 × porcja (50 g)\nJogurt naturalny 1.5 × łyżeczka (15 g)\nNatka pietruszki, świeża lub suszona",
+    "instructions": "1. Ugotuj ryż i odstaw do ostygnięcia.\n2. Przełóż do miski i dodaj odsączonego tuńczyka.\n3. Dodaj gęsty jogurt.\n4. Przypraw solą, pieprzem i natką pietruszki.",
+    "protein": 17,
+    "carbs": 46,
+    "fats": 1
+  },
+  {
+    "name": "Sałatka z brokułem, jajkiem i rzodkiewką",
+    "calories": 287,
+    "ingredients": "Brokuł świeży lub mrożony 125 g\nJogurt naturalny 90 g\nJaja kurze 1 × sztuka (60 g)\nRzodkiewka 40 g\nCytryna 0.5 × sztuka (40 g)\nRukola 0.25 × opakowanie (25 g)\nSłonecznik nasiona 0.5 × łyżka (5 g)\nOliwa z oliwek 0.5 × łyżka (5 g)\nMiód pszczeli 0.5 × łyżeczka (2.5 g)\nCzosnek 0.2 × ząbek (1 g)\nPapryka w proszku 0.5 × szczypta (0.5 g)",
+    "instructions": "1. Brokuła podziel na różyczki i gotuj w osolonej wodzie ok. 5 minut.\n2. Na talerzu wyłóż sałatę, ugotowanego brokuła i pokrojone w plasterki rzodkiewki.\n3. Dopraw wszystko pieprzem, skrop mieszanką oliwy, miodu i cytryny.\n4. Ugotowane jaja pokrój na połówki. Polej jogurtem z czosnkiem i posyp nasionami słonecznika.",
+    "protein": 18,
+    "carbs": 22,
+    "fats": 16
+  },
+  {
+    "name": "Sałatka z jajkiem i wędzonym łososiem",
+    "calories": 250,
+    "ingredients": "Pomidor 1 × sztuka (130 g)\nJogurt naturalny 3 × łyżka (60 g)\nJaja kurze 1 × sztuka (60 g)\nŁosoś wędzony 50 g\nOgórek zielony 10 × plaster (50 g)\nSałata 5 × liść (25 g)\nCzosnek 1 × ząbek (5 g)\nSól biała 2 × szczypta (2 g)",
+    "instructions": "1. Jajko ugotuj.\n2. Porwij sałatę i wymieszaj ją z pokrojonym w kostkę jajkiem, pomidorem i ogórkiem.\n3. Dodaj kawałki łososia.\n4. Czosnek przeciśnij przez praskę i wymieszaj z jogurtem i solą.\n5. Polej sosem sałatkę i wymieszaj.",
+    "protein": 23,
+    "carbs": 13,
+    "fats": 12
+  },
+  {
+    "name": "Szybkie smażone warzywa z serkiem",
+    "calories": 300,
+    "ingredients": "Papryka czerwona 0.75 × sztuka (180 g)\nPomidor 1 × sztuka (130 g)\nCukinia 0.5 × sztuka (120 g)\nPieczarki 1 × garść (60 g)\nSer kanapkowy śmietankowy 1 × porcja (50 g)\nOlej rzepakowy uniwersalny 1 × łyżeczka (5 g)\nZioła prowansalskie 1 × szczypta (1 g)\nSól biała 1 × szczypta (1 g)\nPieprz czarny 2 × szczypta (0.6 g)",
+    "instructions": "1. Umyj warzywa i pieczarki i pokrój na małe kawałki.\n2. Paprykę, pieczarki i cukinię podsmaż na oleju, dopraw solą i pieprzem.\n3. Dodaj serek śmietankowy i gotuj aż się rozpuści, przypraw ziołami i wymieszaj z pomidorem.",
+    "protein": 10,
+    "carbs": 27,
+    "fats": 18
+  }
+  
+  
+]

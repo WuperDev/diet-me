@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Diet Generator</title>
+    <link rel="stylesheet" type="text/css" href="/styles/style.css" />
+    <script src="https://kit.fontawesome.com/c89362231f.js" crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <h1>Generator diety</h1>
+    <div id="form">
+      <label for="meals">Ilość posiłków:</label>
+      <input type="number" id="meals" value="" required/><br /><br />
+      <label for="calories">Całkowita kaloryczność:</label>
+      <input type="number" id="calories" value="" required/><br /><br />
+      <!-- <p id="calories-input-message"></p> -->
+      <label for="dietType">Rodzaj diety</label>
+      <select id="diet-type" name="diet-type">
+        <option value="balanced" selected>Zbilansowana</option>
+        <option value="sport">Sportowa</option>
+        <option value="keto">Keto</option>
+        <option value="vegetarian">Wegetariańska</option>
+      </select>
+
+      <div id="diet-description">
+        Dieta zbilansowana to sposób żywienia, który zapewnia organizmowi
+        odpowiednią ilość składników odżywczych, takich jak białko, węglowodany
+        i tłuszcze, aby utrzymać zdrowie i dobrą formę. Typowy rozkład
+        makroskładników w diecie to: 10-35% białka, 45-65% węglowodanów i 20-35%
+        tłuszczów.
+      </div>
+
+      <button id="generate-btn">Generuj</button>
+    </div>
+    <table id="diet">
+      <thead>
+        <tr>
+          <th>Nazwa posiłku</th>
+          <th>Kaloryczność</th>
+          <th>Szczegóły</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+    <p id="calories-remaining" class="calories-remaining"></p>
+    <div id="diet-info">
+      <h2>Makroskładniki:</h2>
+      <p id="protein-total"></p>
+      <p id="carbs-total"></p>
+      <p id="fat-total"></p>
+    </div>
+    <div id="meal-details" style="display: block">
+      <h2 id="meal-name"></h2>
+      <p id="meal-description"></p>
+      <ul id="meal-ingredients"></ul>
+    </div>
+    <script src="/app/generate-diet.js"></script>
+  </body>
+</html>
