@@ -295,6 +295,10 @@ h6 {
   .navbar ul {
     display: none;
   }
+
+  #result{
+    margin: -156px;
+  }
 }
 
 .navbar-mobile {
@@ -1703,7 +1707,7 @@ section {
   
   /* Ustawienia dla elementów div.container p#result */
   .calculator p#result {
-    margin: 20px 0;
+    margin: -152px 0;
     font-size: 24px;
     font-weight: bold;
   }
