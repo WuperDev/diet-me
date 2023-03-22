@@ -1,0 +1,190 @@
+[
+    {
+        "name": "Jajka sadzone",
+        "calories": 140,
+        "ingredients": "2 jajka\n1 łyżka masła\nsól i pieprz do smaku",
+        "instructions": "Rozgrzej patelnię na średnim ogniu.\nRoztop masło na patelni.\nRozbij jajka na patelni.\nSmaż jajka na patelni przez około 2-3 minuty, aż białka zetną się, a żółtka pozostaną płynne.\nPosól i popieprz jajka do smaku.",
+        "protein": 12,
+        "carbs": 0,
+        "fats": 12
+      },
+      {
+        "name": "Jajecznica z pomidorami",
+        "calories": 330,
+        "ingredients": "2 jajka\n1 pomidor\n2 łyżki oliwy z oliwek\nsól, pieprz",
+        "instructions": "Pokrój pomidora w kostkę.\nRozgrzej oliwę na patelni.\nRozbij jajka i wlej na patelnię, dodaj pomidora i smaż na wolnym ogniu.\nPosól i popieprz do smaku.",
+        "protein": 18,
+        "carbs": 4,
+        "fats": 27
+      },
+      {
+        "name": "Omlet z papryką i serem",
+        "calories": 292,
+        "ingredients": "Jaja kurze 2 × sztuka (120 g)\nPapryka 1.5 × plaster (45 g)\nSer żółty 1 × plaster (20 g)\nOlej 1 × łyżeczka (5 g)\nBazylia świeża 1 × garść (3 g)\nSól biała 1 × szczypta (1 g)\nPieprz czarny 1 × łyżeczka (1 g)",
+        "instructions": "1. Pokrój paprykę w drobną kostkę.\n2. Rozbij jajka i wymieszaj je w misce z papryką i przyprawami.\n3. Wlej tak przygotowaną masę na dobrze rozgrzaną patelnię z olejem kokosowym.\n4. Gdy omlet zacznie się ścinać, posyp go serem.\n5. Za pomocą łopatki złóż omlet na pół. Gdy zrobi się lekko brązowy od spodu, zdejmij go z patelni i przełóż na talerz.",
+        "protein": 21,
+        "carbs": 4,
+        "fats": 21
+      },
+      {
+        "name": "Jajecznica z boczkiem, mozzarellą i oliwkami",
+        "calories": 383,
+        "ingredients": "Jaja kurze 2 × sztuka (120 g)\nWieprzowina boczek bez kości 20 g\nSer mozzarella 1 × plaster (20 g)\nOliwki 6 × sztuka (18 g)\nMasło2 × łyżeczka (10 g)",
+        "instructions": "1. Boczek pokrój w paski i podsmaż na suchej patelni.\n2. Do gotowego boczku dodaj masło, gdy się rozpuści dodaj jajka i pokruszoną mozzarellę.\n3. Pod koniec smażenia dodaj pokrojone w plasterki oliwki.",
+        "protein": 24,
+        "carbs": 2,
+        "fats": 31
+      },
+      {
+        "name": "Leczo z cukinią, pieczarkami i boczkiem",
+        "calories": 835,
+        "ingredients": "Wieprzowina boczek bez kości 150 g\nCukinia 5 × plaster (150 g)\nPomidor 1 × sztuka (130 g)\nPieczarki 4 × sztuka (80 g)\nOlej 3 × łyżka (30 g)\nCebula 2 × plaster (30 g)",
+        "instructions": "1. Cukinię, pomidora oraz cebulę pokrój w kostkę, pieczarki w plastry.\n2. Na oleju podsmaż pokrojony boczek, następnie dodaj pokrojone warzywa i pieczarki.\n3. Dopraw solą, pieprzem i słodką papryką. Całość wymieszaj i duś pod przykrywką do miękkości.",
+        "protein": 32,
+        "carbs": 14,
+        "fats": 73
+      },
+      {
+        "name": "Pieczona feta z pomidorkami",
+        "calories": 650,
+        "ingredients": "Ser typu feta 1 × opakowanie (200 g)\nPomidor 5 × plaster (100 g)\nOliwa z oliwek 2 × łyżka (20 g)\nCzosnek 2 × ząbek (10 g)\nNatka pietruszki, świeża lub suszona\nChili w proszku\n",
+        "instructions": "1. Posiekaj natkę pietruszki , czosnek oraz papryczkę.\n2. W naczyniu żaroodpornym wyłóż ser, posyp natką pietruszki.\n3. Dookoła wyłóż pomidorki, całość polej oliwą i rozłóż papryczkę i ząbki czosnku.\n4. Piecz w 180 stopniach przez 20 minut.",
+        "protein": 35,
+        "carbs": 10,
+        "fats": 53
+      },
+      {
+        "name": "Deser mascaropne z owocami",
+        "calories": 320,
+        "ingredients": "Śmietanka kremowa 30% tłuszczu 7.5 × łyżka (75 g)\nSerek mascarpone 2.1 × łyżka (50.4 g)\nBorówki amerykańskie 0.25 × opakowanie (31.3 g)\nTruskawki świeże lub mrożone 30 g\nMięta liście\n",
+        "instructions": "1. Schłodzoną śmietankę ubij na sztywno i dodaj schłodzony ser mascarpone.\n2. Krem przełóż do naczynia, połóż owoce i listki mięty.",
+        "protein": 4,
+        "carbs": 6,
+        "fats": 31
+      },
+      {
+        "name": "Sałatka z tuńczykiem, jajkiem i awokado",
+        "calories": 395,
+        "ingredients": "Tuńczyk w sosie własnym 2 × łyżka (60 g)\nJaja kurze 1 × sztuka (60 g)\nAwokado 0.25 × sztuka (35 g)\nCebula 2 × plaster (30 g)\nMajonez domowy z olejem rzepakowym 1 × łyżka (25 g)\nSól biała\nPieprz czarny\n",
+        "instructions": "1. Ugotuj jajko na twardo, a następnie wystudź i drobno pokrój.\n2. Wydrąż pestkę z awokado, pokrój je w kostkę i posyp szczyptą soli.\n3. Obierz i drobno pokrój cebulę.\n4. Wrzuć do miski tuńczyka, jajko, cebulę i awokado. Dodaj majonez oraz przyprawy i dokładnie wymieszaj.",
+        "protein": 22,
+        "carbs": 6,
+        "fats": 32
+      },
+      {
+        "name": "Gzik śmietankowy z cebulką",
+        "calories": 490,
+        "ingredients": "Twaróg śmietankowy 150 g\nMlekovita Śmietanka Polska 36% 500 ml 40 g\nPilos Jogurt naturalny kremowy 200 g 40 g\nCebula 8 g\nKoperek \nSól",
+        "instructions": "1. Cebulę i koperek drobno pokroić.\n2. Ser udusić widelcem w misce, dodać śmietanę, jogurt, cebulę, koper i sól.\n3. Wszystko razem dokładnie wymieszać. Gotowe!",
+        "protein": 24,
+        "carbs": 10,
+        "fats": 40
+      },
+      {
+        "name": "Quiche z szynką i serem",
+        "calories": 550,
+        "ingredients": "Jaja kurze 2 × sztuka (120 g)\nSzynka 4 × plaster (60 g)\nŚmietanka kremowa 30% tłuszczu 5 × łyżka (50 g)\nSer żółty 45 g\nSzczypiorek świeży lub suszony 3 × łyżka (15 g)\nMasło 1 × łyżeczka (5 g)\nSól biała\nPieprz czarny\n",
+        "instructions": "1. Rozpuść masło.\n2. Jajka, śmietanę i masło zmiksuj w blenderze.\n3. Dodaj pokrojony w kostkę ser i szynkę, posiekany szczypiorek, sól oraz pieprz i dobrze wymieszaj łyżką.\n4. Wlej masę do formy do zapiekania i piecz przez 40 min w 180 stopniach.\n5. Podawaj, gdy wystygnie.",
+        "protein": 40,
+        "carbs": 4,
+        "fats": 42
+      },
+      {
+        "name": "Pierś z kurczaka z mascarpone i pomidorami",
+        "calories": 520,
+        "ingredients": "Mięso z piersi kurczaka 125 g\nPomidor 4 × plaster (80 g)\nSerek mascarpone 2.5 × łyżka (60 g)\nPieczarki 2 × sztuka (40 g)\nCebula 1.25 × plaster (18.8 g)\nOliwa z oliwek 1 × łyżka (10 g)\nCzosnek 0.5 × ząbek (2.5 g)\nPrzyprawy\n",
+        "instructions": "1. Cebulę i czosnek posiekaj i zeszklij na oliwie. Dodaj pokrojone pieczarki i smaż do momentu ich zarumienienia. Pomidory sparz i obierz ze skórki. Pokrój w kostkę i wrzuć na patelnię, gotuj do momentu uzyskania konsystencji sosu. Dopraw solą i pieprzem, na sam koniec dodaj mascarpone i intensywnie mieszaj do całkowitego rozpuszczenia serka. Zagotuj i odstaw\n2. Pierś z kurczaka umyj, przypraw solą i pieprzem i usmaż na odrobinie oliwy. Filety z kurczaka przełóż do sosu i zagotuj razem",
+        "protein": 34,
+        "carbs": 7,
+        "fats": 40
+      },
+      {
+        "name": "Burger wołowy z sałatą, pomidorem oraz boczkiem",
+        "calories": 510,
+        "ingredients": "Ser żółty 3 × plaster (60 g)\nWołowina 50 g\nBoczek wędzony bez kości 3 × plaster (30 g)\nPomidor 1.5 × plaster (30 g)\nSmalec 1.25 × łyżka (15 g)\nSałata\n1 × liść (5 g)\nPrzyprawy\n",
+        "instructions": "1. Wymieszaj w misce mięso, ser żółty oraz przyprawy. Następnie uformuj z nich kotlety. Smaż na smalcu po około 5 minut z każdej strony. Po przewróceniu na drugą stronę ułóż po plastrze sera\n2. Pomidor umyj, wysusz ręcznikiem papierowym a następnie pokrój w plastry\n3. Na osobnej patelni usmaż boczek\n4. Ułóż najpierw sałatę potem kotlet, pokrojonego pomidora oraz boczek",
+        "protein": 37,
+        "carbs": 1,
+        "fats": 45
+      },
+      {
+        "name": "Naleśniki na mascarpone z masłem orzechowym i truskawkami",
+        "calories": 540,
+        "ingredients": "Jaja kurze 1.5 × sztuka (90 g)\nTruskawki świeże lub mrożone 5.75 × sztuka (40.3 g)\nSerek mascarpone 3.1 × łyżeczka (37.2 g)\nMasło orzechowe 100% 1 × łyżka (20 g)\nMasło 2.5 × łyżeczka (12.5 g)\nOlej 0.5 × łyżeczka (2.5 g)\nErytrytol\n\n",
+        "instructions": "1. Wymieszaj składniki na ciasto (jaja, masło, serek mascarpone, erytrol) pamiętając o tym, że masło powinno mieć temperaturę pokojową\n2. Wylej ciasto na rozgrzaną patelnię z gorącym olejem\n3. Smaż po 2 minuty z każdej strony, aż do zarumienienia ciasta\n4. Truskawki umyj, odszypułkuj i pokrój na mniejsze kawałki. Gotowe naleśniki podawaj z masłem orzechowym oraz truskawkami",
+        "protein": 19,
+        "carbs": 8,
+        "fats": 50
+      },
+      {
+        "name": "Karkówka w śmietanie z pieczarkami",
+        "calories": 560,
+        "ingredients": "Wieprzowina 0.75 × porcja (112.5 g)\nŚmietanka kremowa 30% tłuszczu 10 × łyżka (100 g)\nPieczarki 1 × garść (60 g)\nPapryka 50 g\nCebula 1 × plaster (15 g)\nMasło 2 × łyżeczka (10 g)\nCzosnek 0.5 × ząbek (2.5 g)\nPrzyprawy",
+        "instructions": "1. Na patelni na maśle podsmażaj przez kilka minut pokrojoną w kostkę paprykę\n2. Dodaj pokrojone w plastry pieczarki i posiekaną cebulę\n3. Po kilku minutach dodaj pokrojony w drobne plastry czosnek\n4. Do pieczarek i warzyw wrzuć pokrojoną w drobne paski karkówkę\n5. Dodaj przyprawy (sól, pieprz, majeranek, tymianek)\n6. Podsmażaj mięso\n7. Całość zalej śmietaną i gotuj na małym ogniu, aż zgęstnieje",
+        "protein": 27,
+        "carbs": 10,
+        "fats": 46
+      },
+      {
+        "name": "Polędwiczki wieprzowe z suszonymi pomidorami i szpinakiem",
+        "calories": 600,
+        "ingredients": "Wieprzowina 0.75 × porcja (112.5 g)\nSerek mascarpone 6.75 × łyżeczka (81 g)\nSzpinak świeży lub mrożony 1.25 × garść (31.3 g)\nSuszone pomidory w oleju 1.5 × plaster (30 g)\nCebula 1.25 × plaster (18.8 g)\nNatka pietruszki, świeża lub suszona 2 × szczypta (4 g)\nCzosnek 0.5 × ząbek (2.5 g)\nPrzyprawy",
+        "instructions": "1. Polędwiczki wieprzowe umyj i wytnij z nich błonki. Pokrój na plastry o grubości 1 cm\n2. Suszone pomidory odsącz. Na oleju odsączonym z pomidorów obsmaż polędwiczki (do zarumienienia z obu stron), następnie przełóż mięso na osobny talerzyk\n3. Na tej samej patelni podsmaż posiekaną cebulę do zarumienienia. Następnie dodaj pokrojone w kostkę suszone pomidory i posiekany ząbek czosnku\n4. Po kilku minutach dodaj mascarpone i około 100 ml wody. Dokładnie wymieszaj do momentu całkowitego połączenia składników\n5. Polędwiczki przełóż do sosu i podgotuj kilka minut. Szpinak i natkę pietruszki umyj i posiekaj. Dodaj do sosu na 1-2 minuty",
+        "protein": 30,
+        "carbs": 10,
+        "fats": 50
+      },
+      {
+        "name": "Kiełbaski z boczkiem i serem",
+        "calories": 450,
+        "ingredients": "Kiełbasa zwyczajna 1.25 × sztuka (112.5 g)\nSer żółty 2 × plaster (40 g)\nBoczek wędzony bez kości 3 × plaster (30 g)",
+        "instructions": "1. Kiełbasę pokrój w poprzek\n2. Boczek i ser pokrój w plastry i powkładaj w kieszonki\n3. Piecz lub grilluj ok. 15 minut",
+        "protein": 42,
+        "carbs": 0,
+        "fats": 36
+      },
+      {
+        "name": "Tagiatelle z cukinii a'la carbonara",
+        "calories": 690,
+        "ingredients": "Cukinia 1 × sztuka (240 g)\nBoczek wędzony bez kości 6 × plaster (60 g)\nSerek mascarpone 4.25 × łyżeczka (51 g)\nŚmietanka kremowa 30% tłuszczu 3 × łyżka (30 g)\nSer żółty 1 × plaster (20 g)\nCzosnek 1.5 × ząbek (7.5 g)\nPrzyprawy",
+        "instructions": "1. Cukinię pokrój na kształt wstążek makaronu tagiatelle, przełóż do miski i posól\n2. Boczek pokrój na cienkie plastry i podsmaż na patelni, dodaj mascarpone i mieszaj do momentu rozpuszczenia sera\n3. Do boczku i sera dodaj cukinię i duś 2-3 min\n4. Dopraw do smaku, dodaj czosnek i śmietanę, duś 2 min\n5. Gotowe danie posyp startym serem",
+        "protein": 33,
+        "carbs": 11,
+        "fats": 66
+      }, 
+      {
+        "name": "Makaron z cukinii z boczkiem w sosie śmietanowym",
+        "calories": 670,
+        "ingredients": "Cukinia 1 × sztuka (240 g)\nBoczek wędzony bez kości 6 × plaster (60 g)\nŚmietanka kremowa 30% tłuszczu 5 × łyżka (50 g)\nSer żółty 2 × plaster (40 g)\nOliwa z oliwek 1 × łyżka (10 g)\nCzosnek 1.5 × ząbek (7.5 g)\nNatka pietruszki, świeża lub suszona",
+        "instructions": "1. Cukinię obierz specjalna obieraczką, tak aby zrobić z niej spaghetti\n2. Na patelni podsmaż pokrojony w kostkę boczek, następnie dodaj przeciśnięty przez praskę czosnek i chwilę smaż\n3. Dodaj cukinię i natkę pietruszki i chwilę smaż, aż cukinia zmięknie. Dopraw solą i pieprzem\n4. Dodaj śmietankę i starty ser, wymieszaj i pogotuj chwilę, aby sos zgęstniał",
+        "protein": 35,
+        "carbs": 12,
+        "fats": 62
+      },
+      {
+        "name": "Camembert w boczku z sałatką z pomidorem",
+        "calories": 510,
+        "ingredients": "Ser pleśniowy 1.5 × porcja (75 g)\nPomidor 0.5 × sztuka (65 g)\nBoczek wędzony bez kości 4.5 × plaster (45 g)\nSałata 5 × liść (25 g)\nOlej 1 × łyżka (10 g)\nPrzyprawy",
+        "instructions": "1. Ser camembert owiń boczkiem\n2. Na patelni rozgrzej mocno tłuszcz. Połóż ser w boczku i smaż z obu stron na rumieny kolor. Ostrożnie odwracaj na drugą stronę przy pomocy łopatki\n3. Gotowy camembert w boczku przełóż na talerz\n4. Sałatę oraz pomidor umyj, wysusz i pokrój na kawałki. Sałatkę polej olejem z dodatkiem soli oraz pieprzu",
+        "protein": 32,
+        "carbs": 4,
+        "fats": 49
+      }, 
+      {
+        "name": "Ryba pieczona w maśle pietruszkowym",
+        "calories": 450,
+        "ingredients": "Ryba tłusta świeża lub mrożona 100 g\nMasło 4 × łyżeczka (20 g)\nOlej 1 × łyżka (10 g)\nCytryna 1 × łyżka (10 g)\nNatka pietruszki, świeża lub suszona 4 × szczypta (8 g)\nPrzyprawy",
+        "instructions": "1. Filety rybne skrop sokiem z cytryny i przypraw pieprzem, solą oraz ziołami prowansalskimi\n2. Masło podgrzej i wymieszaj z posiekaną natką pietruszki, dodaj pieprz oraz rozmaryn i odrobinę soli\n3. Kawałki folii aluminiowej wysmaruj olejem i ułóż filety rybne. Przykryj masłem pietruszkowym\n4. Zawiń dokładnie w folię i piecz około 15 minut w piekarniku rozgrzanym do 200 stopni",
+        "protein": 20,
+        "carbs": 2,
+        "fats": 40
+      },
+      {
+       "name": "Łosoś musztardowo-cytrynowy z kalafiorem",
+       "calories": 710,
+       "ingredients": "Łosoś świeży 2 × porcja (200 g)\nKalafior świeży lub mrożony 0.5 × porcja (100 g)\nŚmietanka kremowa 30% tłuszczu 3 × łyżka (30 g)\nOliwa z oliwek 2 × łyżka (20 g)\nCytryna 1 × łyżka (10 g)\nMusztarda 1 × łyżeczka (10 g)\nSól biała",
+       "instructions": "1. Różyczki z kalafiora podgotuj na parze, następnie podduś na naoliwionej patelni. Duś przez ok. 8 minut na małym ogniu pod przykryciem, mieszając od czasu do czasu\n2. W innym rondelku na niedużym ogniu podsmaż filet z łososia, oprószonego solą, przez ok. 3 minuty z każdej ze stron. Następnie odstaw rondel z łososiem i pozwól mu ostygnąć\n3. Wymieszaj gęstą śmietanę, musztardę, sok z cytryny i dodaj do ostygniętego łososia. Podgrzej na małym ogniu przez ok. 5 minut\n4. Tak przygotowanego łososia podaj na podduszonych różyczkach kalafiora",
+       "carbs": 9,
+       "fats": 57
+      }
+]

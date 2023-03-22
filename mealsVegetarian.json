@@ -1,0 +1,308 @@
+[
+    {
+        "name": "Chleb w jajku",
+        "calories": 310,
+        "ingredients": "Pieczywo pełnoziarniste 2 × kromka (70 g)\nJaja kurze 1 × sztuka (60 g)\nKetchup 1 × łyżeczka (10 g)\nMleko 1 × łyżka (10 ml)\nOlej 1 × łyżeczka (5 g)\nSól biała \nPieprz czarny",
+        "instructions": "1. W płytkiej misce ubić jajko, mleko oraz dużą ilość soli i pieprzu.\n2. Rozgrzej na średnim ogniu tyle oleju, aby wystarczyło przykryć dno dużej patelni. Gdy olej zacznie migotać, zanurz chleb w mieszance jajecznej i wlej na patelnię. Gotuj przez 5 minut z każdej strony lub do zarumienienia.\n3. Podawać z keczupem.",
+        "protein": 13,
+        "carbs": 41,
+        "fats": 12
+      },
+      {
+        "name": "Sałatka grecka",
+        "calories": 330,
+        "ingredients": "Pomidor 400 g\nOgórek zielony 80 g\nSer typu feta 60 g\nOliwki 50 g\nSałata 10 × liść (50 g)\nOliwa z oliwek 2 × łyżeczka (10 g)\nZioła prowansalskie\nPieprz czarny\nSól biała",
+        "instructions": "1. Pomidora i ogórka pokrój w cienkie plastry.\n2. Dodaj rozdrobnioną sałatę i ser feta.\n3. Dodaj oliwę, oliwki, zioła prowansalskie i dokładnie wymieszaj.",
+        "protein": 16,
+        "carbs": 24,
+        "fats": 27
+      },
+      {
+        "name": "Placki twarogowe z bananem",
+        "calories": 450,
+        "ingredients": "Banan 1 × sztuka (120 g)\nSer twarogowy chudy 2.5 × plaster (75 g)\nJaja kurze 1 × sztuka (60 g)\nMąka pszenna 5 × łyżka (50 g)\nCynamon",
+        "instructions": "1. Zmiksuj wszystkie składniki.\n2. Smaż na patelni bez tłuszczu (lub tylko posmarowanej pędzelkiem) do zarumienienia placków.",
+        "protein": 28,
+        "carbs": 69,
+        "fats": 7
+      },
+      {
+        "name": "Deser bananowy z twarogiem",
+        "calories": 395,
+        "ingredients": "Ser twarogowy chudy 1.5 × opakowanie (300 g)\nBanan 220 g\nJogurt naturalny 1 × opakowanie (150 g)\nOrzechy 20 g\nMiód pszczeli 2 × łyżka (20 g)\nCytryna",
+        "instructions": "1. Banana obierz, wrzuć do naczynia razem z resztą składników.\n2. Zmiksuj całość na gładką masę.\n3. Przełóż do naczynia i włóż do lodówki.\n4. Posyp orzechami.",
+        "protein": 35,
+        "carbs": 46,
+        "fats": 9
+      },
+      {
+        "name": "Omlet z mozzarellą i pomidorami",
+        "calories": 365,
+        "ingredients": "Pomidor 160 g\nJaja kurze 2 × sztuka (120 g)\nSer mozzarella 1.5 × plaster (30 g)\nOliwa z oliwek 1 × łyżka (10 g)\nBazylia świeża 7.5 × szczypta (7.5 g)\nPapryczka chili 2.5 g\nSól biała\nPieprz czarny\n",
+        "instructions": "1. Pomidory pokrój w cienkie plasterki, ułóż na półmisku i polej odrobiną oliwy, posyp solą i pieprzem.\n2. Większość liści bazylii utrzyj w moździerzu lub zmiksuj na pastę, dodaj kilka kropel oliwy.\n3. Pokrój chili w cienkie plasterki.\n4. Pokrój drobno mozzarellę.\n5. Ubij jaja i wylej na rozgrzaną patelnię.\n6. Kiedy jaja lekko się zetną, przestań miesza i wsyp na środek mozzarellę i dodaj przygotowaną wcześniej bazylię.\n7. Poczekaj 1 minutę, żeby spód omleta się ściął.\n8. Chwyć patelnię i zsuń omlet na drugą stronę. Łopatką nałóż dolną część omleta na środek, a potem tak samo złóż jego górną część.\n9. Wyłóż omlet spodem do góry na półmisek z pomidorami.\n10. Rozkrój omlet przez środek, aby było widać nadzienie. Dodaj liście bazylii i chilli (opcjonalnie).",
+        "protein": 24,
+        "carbs": 8,
+        "fats": 27
+      },
+      {
+        "name": "Zapiekanka z pieczarkami",
+        "calories": 435,
+        "ingredients": "Bagietka francuska 0.5 × sztuka (70 g)\nPieczarki 2.5 × sztuka (50 g)\nSer mozzarella 2.5 × plaster (50 g)\nCebula 0.25 × sztuka (27.5 g)\nMasło 2 × łyżeczka (10 g)\nKetchup1 × łyżeczka (10 g)",
+        "instructions": "1. Bagietkę przekrój wzdłuż.\n2. Pieczarki i cebulę pokrój w drobną kostkę. Następnie smaż na maśle ok. 5 minut. Dopraw solą i pieprzem.\n3. Rozgrzej piekarnik do 200 stopni.\n4. Farsz wyłóż na bagietkę i posyp serem.\n5. Piecz do zarumienienia przez ok. 7 minut.",
+        "protein": 21,
+        "carbs": 48,
+        "fats": 18
+      },
+      {
+        "name": "Kotlety z kalafiora",
+        "calories": 420,
+        "ingredients": "Kalafior świeży lub mrożony 5 × różyczka (250 g)\nOgórek zielony 100 g\nJaja kurze 1 × sztuka (60 g)\nŚmietana 12% lub 18% 40 g\nBułka tarta 30 g\nSzczypiorek świeży lub suszony 2 × łyżka (10 g)\nOlej 1 × łyżka (10 g)\nCzosnek  0.5 × ząbek (2.5 g)\nCukier 0.5 × łyżeczka (2.5 g)",
+        "instructions": "1. Do dużego garnka włóż kalafiora i zalej wodą. Gotuj ok. 15 minut.\n2. Pozbądź się najtwardszych części i rozdrobnij.\n3. Kalafiora przełóż do miski, dodaj sól, zmielony pieprz, połowę bułki tartej, jajka, szczypiorek, przeciśnięty przez praskę czosnek i wymieszaj.\n4. Uformuj kotlety i obtocz je w bułce tartej. Układaj na rozgrzanej patelni z tłuszczem i smaż na umiarkowanym ogniu przez ok. 4 - 5 minut z każdej strony.\n5. Ogórka zetrzyj lub pokrój w plasterki. Posól, zalej śmietaną, dodaj cukier i odrobinę octu.",
+        "protein": 19,
+        "carbs": 44,
+        "fats": 22
+      },
+      {
+        "name": "Kokosowa owsianka z bananem i kiwi",
+        "calories": 565,
+        "ingredients": "Banan 140 g\nMleko 12 × łyżka (120 ml)\nKiwi 75 g\nPłatki owsiane 6 × łyżka (60 g)\nWiórki kokosowe 10 g\nNasiona słonecznika, dyni, chia, sezamu lub siemię lniane 1 × łyżeczka (5 g)",
+        "instructions": "1. Do garnka wlej mleko, dodaj płatki, całość wymieszaj i gotuj 5 minut na małym ogniu.\n2. Kiwi i banana obierz ze skórki, pokrój/podziel na mniejsze kawałki i razem z wiórkami dodaj do owsianki, posyp nasionami np. słonecznika.",
+        "protein": 16,
+        "carbs": 95,
+        "fats": 16
+      },
+      {
+        "name": "Koktajl bananowo - orzechowy z czekoladą",
+        "calories": 440,
+        "ingredients": "Mleko 250 ml\nBanan 1 × sztuka (185 g)\nCzekolada gorzka 2 × kostka (12 g)\nOrzechy 10 g",
+        "instructions": "1. Orzechy posiekaj.\n2. Wszystkie składniki zmiksuj.",
+        "protein": 13,
+        "carbs": 64,
+        "fats": 16
+      },
+      {
+        "name": "Szakszuka i kanapki z awokado",
+        "calories": 520,
+        "ingredients": "Pomidory krojone puszka 150 g\nJaja kurze 2 × sztuka (120 g)\nPieczywo pełnoziarniste 2 × kromka (70 g)\nAwokado 35 g\nCebula 25 g\nOlej 1 × łyżka (10 g)\nSól biała\nBazylia świeża\nPieprz czarny\n",
+        "instructions": "1. Cząstki pomidorów podduś z posiekaną cebulą na oleju.\n2. Rozdziel troszkę pomidory i wbij jajka.\n3. Dodaj przyprawy (sól, pieprz, bazylia) i nakryj pokrywką. Duś aż jajka się zetną.\n4. Przed podaniem, posyp pieprzem.\n5. Zjedz z pieczywem posmarowanym awokado.",
+        "protein": 23,
+        "carbs": 49,
+        "fats": 28
+      },
+      {
+        "name": "Makaron z mozzarellą i pomidorami",
+        "calories": 600,
+        "ingredients": "Pomidory krojone puszka 200 g\nMakaron pełnoziarnisty 1 × porcja (100 g)\nSer mozzarella 3 × plaster (60 g)\nCzosnek 2 × ząbek (10 g)\nOlej 1 × łyżeczka (5 g)\nBazylia świeża \nSól biała",
+        "instructions": "1. Ugotuj makaron.\n2. Na patelni podsmaż posiekany czosnek.\n3. Dodaj pomidory, bazylię i sól i smaż około 2 min.\n4. Dodaj ugotowany makaron i pokrojoną w kostkę mozarellę.\n5. Smaż aż mozarella się lekko rozpuści.",
+        "protein": 33,
+        "carbs": 80,
+        "fats": 16
+      },
+      {
+        "name": "Tosty ze szpinakiem i camembertem",
+        "calories": 530,
+        "ingredients": "Pieczywo pełnoziarniste 3 × kromka (105 g)\nSer pleśniowy 90 g\nPomidor 3 × plaster (60 g)\nSzpinak świeży lub mrożony\n",
+        "instructions": "1. Na pieczywo połóż liście świeżego szpinaku, plastry pomidora i ser.\n2. Zapiecz w piekarniku 180 stopniach przez 5 minut.",
+        "protein": 27,
+        "carbs": 60,
+        "fats": 23
+      },
+      {
+        "name": "Grzanki z mozzarellą",
+        "calories": 665,
+        "ingredients": "Ser mozzarella 82.5 g\nPieczywo pełnoziarniste 2 × kromka (70 g)\nMleko 30 ml 20 g\nJaja kurze 1 sztuka\nMąka pszenna 20 g\nOliwa z oliwek 10 g",
+        "instructions": "1. Mozzarellę pokrój na cienkie plastry i włóż pomiędzy kromki chleba\n2. Dopraw szczyptą pieprzu\n3. Jajko wymieszaj z mlekiem i szczyptą soli\n4. Mąkę wymieszaj na drugim talerzu z bułką\n5. Kanapki obtocz w mące z bułką, potem w jajku z mlekiem i ponownie w mące z bułką\n6. Następnie smażymy na oliwie\n7. Podawaj z sałatką z pomidorów, cebuli i oliwek",
+        "protein": 32,
+        "carbs": 68,
+        "fats": 31
+      },
+      {
+        "name": "Placki twarogowe z bananem",
+        "calories": 450,
+        "ingredients": "Banan 1 × sztuka (120 g)\nSer twarogowy chudy 2.5 × plaster (75 g)\nJaja kurze 1 × sztuka (60 g)\nMąka pszenna 5 × łyżka (50 g)\nCynamon 2 × szczypta (2 g)",
+        "instructions": "1. Zmiksuj wszystkie składniki.\n2. Smaż na patelni bez tłuszczu (lub tylko posmarowanej pędzelkiem) do zarumienienia placków.",
+        "protein": 28,
+        "carbs": 69,
+        "fats": 7
+      },
+      {
+        "name": "Kanapki z pastą jajeczno - tuńczykową",
+        "calories": 423,
+        "ingredients": "Pieczywo pełnoziarniste 3 × kromka (105 g)\nTuńczyk w sosie własnym 80 g\nJaja kurze 1 × sztuka (60 g)\nJogurt naturalny 1 × łyżka (20 g)\nSzczypiorek świeży lub suszony 1 × łyżka (5 g)\nPrzyprawy",
+        "instructions": "1. Jajko ugotuj na twardo, obierz i drobno posiekaj.\n2. Następnie wymieszaj jajko z odcedzonym tuńczykiem, jogurtem oraz posiekanym szczypiorkiem.\n3. Przypraw pieprzem.\n4. Posmaruj pieczywo pastą",
+        "protein": 32,
+        "carbs": 58,
+        "fats": 9
+      },
+      {
+        "name": "Naleśniki z papryką, pomidorem, cukinią i fetą",
+        "calories": 532,
+        "ingredients": "Papryka 1 × sztuka (240 g)\nCukinia 1 × sztuka (240 g)\nMleko 0.5 × szklanka (110 ml) \nMąka pszenna 7 × łyżka (70 g)\nPomidor 2.5 × plaster (50 g)\nSer typu feta 1.5 × plaster (30 g)\nOlej",
+        "instructions": "1. Wymieszaj mąkę, mleko i olej na gładką masę\n2. Ciasto wlewaj na mocno rozgrzaną patelnię i smaż naleśniki\n3. Paprykę, pomidory i cukinię pokrój w kostkę\n4. Na patelnię wrzuć paprykę i cukinię i duś około 5-7 minut\n5. Po tym czasie dodaj pomidory i duś kolejne 2-3 minuty\n6. Przestudzone warzywa wymieszaj z pokruszonym serem\n7. Farsz nałóż na naleśniki i je złóż",
+        "protein": 22,
+        "carbs": 83,
+        "fats": 15
+      },
+      {
+        "name": "Kanapka z tuńczykiem, jajem i ogórkiem",
+        "calories": 400,
+        "ingredients": "Pieczywo pełnoziarniste 3 × kromka (105 g)\nOgórek zielony 12 × plaster (60 g)\nTuńczyk w sosie własnym 2 × łyżka (60 g)\nJaja kurze 1 × sztuka (60 g)\nRukola 0.1 × opakowanie (10 g)",
+        "instructions": "1. Jajko ugotuj na półtwardo.\n2. Tuńczyka odsącz, ogórka pokrój w plastry.\n3. Pieczywo obłóż sałatą, plastrami jaja, tuńczykiem i plastrami ogórka.\n4. Opcjonalnie: tuńczyka i jajko można zmiksować na pastę",
+        "protein": 28,
+        "carbs": 59,
+        "fats": 9
+      },
+      {
+        "name": "Jajka po florencku",
+        "calories": 445,
+        "ingredients": "Jaja kurze 2 × sztuka (120 g)\nBułka grahamka 1.25 × sztuka (100 g) \nSzpinak świeży lub mrożony 2 × garść (50 g)\nSzczypiorek świeży lub suszony ",
+        "instructions": "1. Zagotuj wodę w rondlu, dodaj odrobinę soli i octu.\n2. Do wrzącej wody wbij jajko i gotuj 3 minuty.\n3. Pokrój bułkę, szpinak przesmaż lub zblanszuj (przelej wrzątkiem).\n4. Na połówkach bułki układaj szpinak i jajko, posyp szczypiorkiem.",
+        "protein": 26,
+        "carbs": 58,
+        "fats": 14
+      },
+      {
+        "name": "Szakszuka z pomidorami i szynką",
+        "calories": 457,
+        "ingredients": "Pomidor 2 × sztuka (260 g)\nPieczywo pełnoziarniste 3 × kromka (105 g)\nJaja kurze 1 × sztuka (60 g)\nCebula 3.25 × plaster (48.8 g)\nSzynka 1 × plaster (15 g)\nOlej 1 × łyżeczka (5 g)\nSzczypiorek świeży lub suszony\n",
+        "instructions": "1. Cebulę posiekaj, szynkę i pomidora pokrój w kostkę\n2. Przygotowane warzywa i szynkę wrzuć na rozgrzany olej, smaż kilka minut, aż zaczną się rumienić\n3. Gdy warzywa będą już miękkie wbij jajko, przykryj pokrywką i czekaj aż białko się zetnie (żółtka powinny zostać płynne lub półpłynne - według preferencji)\n4. Gotową szakszukę posyp szczypiorkiem i opcjonalnie porcją świeżych ziół (np. kolendra) dopraw ostrą papryką, solą i pieprzem.\n5. Zjedz z pieczywem",
+        "protein": 20,
+        "carbs": 71,
+        "fats": 14
+      },
+      {
+        "name": "Ryba zapiekana z koperkiem i cytryną z ryżem i brokułami",
+        "calories": 430,
+        "ingredients": "Brokuł świeży lub mrożony 240 g\nRyba chuda świeża lub mrożona 140 g\nRyż brązowy 0.5 × porcja (50 g)\nCytryna 20 g\nCzosnek 8 g\nMasło 1 × łyżeczka (5 g)\nKoperek świeży lub suszony 1 × łyżeczka (4 g)\nPrzyprawy",
+        "instructions": "1. Cytrynę sparz wrzątkiem i skórkę zetrzyj na tarce.\n2. Filet z ryby pokrój na mniejsze kawałki, skrop sokiem z cytryny i oprósz pieprzem oraz solą.\n3. Rybę ułóż na kwadratowych kawałkach folii aluminiowej, wysmaruj sprasowanym czosnkiem oraz posyp posiekanym koperkiem. Dodaj masło i zawiń w folię.\n4. Rybę włóż do rozgrzanego piekarnika (180 stopni) na około 20 minut.\n5. Gotową rybę posyp skórką cytryny i podawaj z ugotowanym ryżem i brokułami.",
+        "protein": 38,
+        "carbs": 56,
+        "fats": 9
+      },
+      {
+        "name": "Makaron ze szpinakiem i twarogiem",
+        "calories": 500,
+        "ingredients": "Szpinak świeży lub mrożony 8 × garść (200 g)\nSer twarogowy chudy 4 × plaster (120 g)\nMakaron pełnoziarnisty 7 × łyżka (70 g)\nOlej 1 × łyżka (10 g)\nCzosnek 1 × ząbek (7 g)\nSól biała\nPieprz czarny",
+        "instructions": "1. Ugotuj makaron\n2. W czasie gotowania makaronu rozgrzej na patelni olej, dodaj szpinak i przeciśnięty przez praskę czosnek. Podsmażaj ok. 5 minut\n3. Dodaj ugotowany makaron, przypraw solą i pieprzem, wymieszaj\n4. Dodaj pokruszony twaróg i całość podsmażaj jeszcze ok. 2 minut",
+        "protein": 40,
+        "carbs": 61,
+        "fats": 12
+      },
+      {
+        "name": "Omlet szarlotka",
+        "calories": 450,
+        "ingredients": "Jabłko 1 × sztuka (170 g)\nJajka 1 × sztuka (56 g)\nTwaróg wiejski półtłusty 40 g\nMąka pszenna typ 450 40 g\nSkyr z wiśniami 1 × łyżka (25 g)\nPłatki owsiane 1 × łyżka (10 g)\nCukier 2 × łyżeczka (10 g)\nCynamon 3 × szczypta (3 g)\nSól biała",
+        "instructions": "1. Wszystko oprócz skyra i jabłek zblendować na gładką masę.\n2. Jabłko obrać, zetrzeć na tarce o grubych oczkach i odsączyć nadmiar soku.\n3. Pół kasy wylać na patelnię, gdy lekko się zetnie wyłożyć jabłka i wcisnąć w masę. Wylać resztę masy na wierzch jabłek, żeby je zakryć.\n4. Obrócić omleta na drugą stronę i smażyć na małym ogniu do zarumienienia.\n5. Gdy będzie gotowy ściągnąć na talerz, posmarować skyrem.",
+        "protein": 22,
+        "carbs": 72,
+        "fats": 9
+      },
+      {
+        "name": "Kanapka z kolorowym twarożkiem",
+        "calories": 320,
+        "ingredients": "Pomidor 8.5 × plaster (170 g)\nSer twarogowy chudy 0.5 × opakowanie (100 g)\nPieczywo pełnoziarniste 2 × kromka (70 g)\nOgórek zielony 10 × plaster (50 g)\nJogurt naturalny 1.5 × łyżka (30 g)\nPrzyprawy",
+        "instructions": "1. Twaróg wymieszaj z jogurtem\n2. Dodaj warzywa pokrojone w drobną kostkę i przypraw według uznania.\n3. Pieczywo obłóż twarogiem",
+        "protein": 27,
+        "carbs": 52,
+        "fats": 3
+      },
+      {
+        "name": "Ryba w marchewce z ziemniakami",
+        "calories": 330,
+        "ingredients": "Marchew 2 × sztuka (220 g)\nZiemniaki 2 × sztuka (160 g)\nDorsz świeży filety bez skóry 1 × sztuka (100 g)\nCebula 0.5 × sztuka (55 g)\nKoncentrat pomidorowy 2 × łyżka (20 g)\nCzosnek 1 × ząbek (7 g)\nSól biała \nChili w proszku\nPieprz czarny",
+        "instructions": "1. Pokrojoną cebulę, startą marchew i przeciśnięty przez praskę czosnek duś razem z rybą posypaną przyprawami (pieprzem, solą, chili).\n2. Pod koniec duszenia, gdy ryba będzie już gotowa, dodaj koncentrat\n3. Podawaj z ugotowanymi ziemniakami",
+        "protein": 24,
+        "carbs": 62,
+        "fats": 2
+      },
+      {
+        "name": "Rozgrzewająca owsianka z imbirem",
+        "calories": 335,
+        "ingredients": "Mleko spożywcze 2% tłuszczu 1 × szklanka (220 ml)\nPłatki owsiane 5 × łyżka (50 g)\nMiód pszczeli 2 × łyżeczka (10 g)\nPrzyprawy",
+        "instructions": "Do ciepłego mleka dodaj płatki, miód oraz szczyptę imbiru i gotuj ok. 4 min",
+        "protein": 14,
+        "carbs": 53,
+        "fats": 8
+      },
+      {
+        "name": "Bananowy twarożek z orzechami",
+        "calories": 330,
+        "ingredients": "Banan 1 × sztuka (185 g)\nSer twarogowy chudy 4 × plaster (120 g)\nOrzechy 6 g",
+        "instructions": "1. Banana rozgnieć z twarożkiem na gładko\n2. Dodaj posiekane ulubione orzechy np. nerkowca",
+        "protein": 26,
+        "carbs": 49,
+        "fats": 5
+      },
+      {
+        "name": "Tosty z oliwkowym twarożkiem z ogórkiem kiszonym",
+        "calories": 345,
+        "ingredients": "Ser twarogowy chudy 4 × plaster (120 g)\nPieczywo pełnoziarniste 2 × kromka (70 g)\nOgórek kwaszony 1 × sztuka (60 g)\nJogurt naturalny 2 × łyżka (40 g)\nOliwki 8 × sztuka (24 g)\nPieprz czarny",
+        "instructions": "1. Pieczywo opiecz w piekarniku lub opiekaczu przez 5 minut\n2. Twaróg wymieszaj z jogurtem\n3. Dodaj pokrojonego w drobną kostkę ogórka, oliwki i przyprawy",
+        "protein": 31,
+        "carbs": 47,
+        "fats": 6
+      },
+      {
+        "name": "Sałatka z tuńczykiem i ogórkiem, z pieczywem",
+        "calories": 550,
+        "ingredients": "Ogórek zielony 1 × sztuka (170 g)\nTuńczyk w sosie własnym 1.25 × opakowanie (150 g)\nPieczywo pełnoziarniste 3 × kromka (105 g)\nKukurydza konserwowa 3 × łyżka (45 g)\nJogurt naturalny 2 × łyżka (40 g)\nSłonecznik nasiona 1 × łyżka (10 g)",
+        "instructions": "1. Odsącz tuńczyka i wymieszaj z jogurtem\n2. Dodaj pokrojonego w kostkę ogórka, kukurydzę oraz nasiona słonecznika\n3. Zjedz z pieczywem",
+        "protein": 45,
+        "carbs": 77,
+        "fats": 10
+      },
+      {
+        "name": "Ryba zapiekana z koperkiem i cytryną z ryżem i brokułami",
+        "calories": 430,
+        "ingredients": "Brokuł świeży lub mrożony 240 g\nRyba chuda świeża lub mrożona 140 g\nRyż brązowy 0.5 × porcja (50 g)\nCytryna 20 g\nCzosnek 8 g\nMasło 1 × łyżeczka (5 g)\nKoperek świeży lub suszony\nPrzyprawy",
+        "instructions": "1. Cytrynę sparz wrzątkiem i skórkę zetrzyj na tarce.\n2. Filet z ryby pokrój na mniejsze kawałki, skrop sokiem z cytryny i oprósz pieprzem oraz solą.\n3. Rybę ułóż na kwadratowych kawałkach folii aluminiowej, wysmaruj sprasowanym czosnkiem oraz posyp posiekanym koperkiem. Dodaj masło i zawiń w folię.\n4. Rybę włóż do rozgrzanego piekarnika (180 stopni) na około 20 minut.\n5. Gotową rybę posyp skórką cytryny i podawaj z ugotowanym ryżem i brokułami.",
+        "protein": 39,
+        "carbs": 56,
+        "fats": 9
+      },
+      {
+        "name": "Pieczony ziemniak z twarogiem",
+        "calories": 390,
+        "ingredients": "Ziemniaki 1 × porcja (200 g)\nSer twarogowy chudy 110 g\nJogurt naturalny 2% tłuszczu 3 × łyżka (75 g)\nRzodkiewka 3 × sztuka (45 g)\nSzczypiorek 1 × pęczek (15 g)\nOlej lniany 1 × łyżeczka (5 g)\nSól biała\nPieprz czarny\n",
+        "instructions": "1. UWAGA: Wybieraj duże ziemniaki o masie ok. 200 g.\n2. Rozgrzej piekarnik do temperatury 200 stopni. Ziemniaki dokładnie umyj (nie obieraj ze skórki) i przekrój na pół.\n3. 3. Nakłuj wewnętrzną stronę ziemniaków widelcem, dopraw solą i pieprzem, a następnie włóż do piekarnika i piecz ok. 45 min (aż będzie miękki).\n4. W międzyczasie posiekaj bardzo drobno szczypiorek oraz rzodkiewkę, a jogurt wymieszaj bardzo dokładnie z twarogiem.\n5. Wymieszaj warzywa (zostaw trochę szczypiorku do dekoracji) z masą twarogową i dopraw całość solą oraz pieprzem do smaku.\n6. Podawaj twaróg na upieczonych połówkach ziemniaka i skrop całość olejem lnianym oraz udekoruj pozostałym szczypiorkiem.",
+        "protein": 30,
+        "carbs": 54,
+        "fats": 8
+      },
+      {
+        "name": "Owsianka z malinami i orzechami",
+        "calories": 600,
+        "ingredients": "Maliny 200 g\nMleko 20 × łyżka (200 ml)\nPłatki owsiane 8 × łyżka (80 g)\nOrzechy 2 × sztuka (12 g)\nMiód pszczeli 1 × łyżka (10 g)",
+        "instructions": "1. Płatki ugotuj na mleku i odstaw pod przykryciem by napęczniały.\n2. Wymieszaj z malinami, miodem i posiekanymi orzechami.",
+        "protein": 22,
+        "carbs": 99,
+        "fats": 18
+      },
+      {
+        "name": "Bananowe placuszki",
+        "calories": 625,
+        "ingredients": "Banan 300 g\nJaja kurze 2 × sztuka (120 g)\nMąka pełnoziarnista 5 × łyżka (50 g)",
+        "instructions": "1. Banany rozgnieć widelcem na gładko.\n2. Wymieszaj z jajkami i mąką.\n3. Na bardzo dobrze rozgrzanej, dobrej jakości patelni, usmaż placki bez użycia tłuszczu.",
+        "protein": 21,
+        "carbs": 110,
+        "fats": 13
+      },
+      {
+        "name": "Ryż z pieczoną marchewką i ciecierzycą",
+        "calories": 655,
+        "ingredients": "Marchew 100 g\nCiecierzyca 0.5 × szklanka (90 g)\nRyż brązowy 0.5 × porcja (50 g)\nCytryna 1.5 × łyżka (15 g)\nNasiona słonecznika 1 × łyżka (10 g)\nPapryczka chili 0.5 × sztuka (10 g)\nOliwa z oliwek 0.5 × łyżka (5 g)\nMiód pszczeli 0.5 × łyżeczka (2.5 g)\nSzczypiorek świeży lub suszony \nSól biała\nKumin\nPieprz czarny\n",
+        "instructions": "1. Marchewkę pokrój na podłużne paseczki. Polej odrobiną oliwy, posyp solą, pieprzem i kuminem. Piecz ok. 25-30 min w rozgrzanym do 180 stopni piekarniku.\n2. Wymieszaj sok z cytryny, miód oraz oliwę.\n3. Ryż ugotuj wg instrukcji na opakowaniu.\n4. Po tym czasie dodaj ciecierzycę, sos, podprażony słonecznik, posiekany szczypiorek, posiekane chilli oraz upieczoną marchewkę.",
+        "protein": 24,
+        "carbs": 108,
+        "fats": 16
+      },
+      {
+        "name": "Grillowany ser halloumi z papryką",
+        "calories": 330,
+        "ingredients": "Papryka 150 g\nHalloumi 55 g\nOliwa z oliwek 1 × łyżka (10 g)\nCytryna 1 × łyżka (10 g)",
+        "instructions": "1. Papryki pokrój na kawałki, wrzuć do miski i dokładnie wymieszaj z oliwą (zostaw trochę do posmarowania sera), przełóż na patelnię grillową i grilluj przez ok. 5 minut.\n2. Ser halloumi pokrój na plastry, posmaruj oliwą z obu stron, ułóż na patelni grillowej i grilluj przez ok. 2 minuty z każdej strony. Podawaj z grillowaną papryką. Danie skrop sokiem z cytryny",
+        "protein": 14,
+        "carbs": 13,
+        "fats": 25
+      }
+]
