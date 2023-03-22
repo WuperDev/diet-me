@@ -17,11 +17,11 @@ dietType.addEventListener("change", () => {
   switch (dietType.value) {
     case "balanced":
       newDiv.innerText =
-        "Dieta zbilansowana to sposób żywienia, który zapewnia organizmowi odpowiednią ilość składników odżywczych, takich jak białko, węglowodany i tłuszcze, aby utrzymać zdrowie i dobrą formę. Typowy rozkład makroskładników w diecie to: 10-35% białka, 45-65% węglowodanów i 20-35% tłuszczów.";
+        "Dieta zbilansowana to sposób żywienia, który zapewnia organizmowi odpowiednią ilość składników odżywczych, takich jak białko, węglowodany i tłuszcze, aby utrzymać zdrowie i dobrą formę.";
       break;
     case "sport":
       newDiv.innerText =
-        "Dieta sportowa to plan żywieniowy, który zapewnia odpowiednią ilość kalorii i makroskładników, przede wszystkim węglowodanów (55-65%), białek (1,2-1,7 g/kg masy ciała) i tłuszczów (20-30%), w zależności od rodzaju aktywności i celów treningowych. Ważne jest również utrzymanie odpowiedniego bilansu płynów i elektrolitów oraz uzupełnienie diety o witaminy i składniki mineralne.";
+        "Dieta sportowa to plan żywieniowy, który zapewnia odpowiednią ilość kalorii i makroskładników, przede wszystkim węglowodanów (55-65%), białek (1,2-2.2 g/kg masy ciała) i tłuszczów (20-30%), w zależności od rodzaju aktywności i celów treningowych. Ważne jest również utrzymanie odpowiedniego bilansu płynów i elektrolitów oraz uzupełnienie diety o witaminy i składniki mineralne.";
       break;
     case "keto":
       newDiv.innerText =
@@ -78,13 +78,13 @@ function generateMeals() {
   let dietTypeValue = dietType.value;
   let fetchValue = [];
   if (dietTypeValue == "balanced") {
-    fetchValue = fetch("meals.json?count=" + numberOfMeals);
+    fetchValue = fetch("https://wuperdev.github.io/diet-me/meals.json?count=" + numberOfMeals);
   } else if (dietTypeValue == "sport") {
-    fetchValue = fetch("/mealsSport.json?count=" + numberOfMeals);
+    fetchValue = fetch("https://wuperdev.github.io/diet-me/mealsSport.json?count=" + numberOfMeals);
   } else if (dietTypeValue == "keto") {
-    fetchValue = fetch("/mealsKeto.json?count=" + numberOfMeals);
+    fetchValue = fetch("https://wuperdev.github.io/diet-me/mealsKeto.json?count=" + numberOfMeals);
   } else if (dietTypeValue == "vegetarian") {
-    fetchValue = fetch("/mealsVegetarian.json?count=" + numberOfMeals);
+    fetchValue = fetch("https://wuperdev.github.io/diet-me/mealsVegetarian.json?count=" + numberOfMeals);
   }
 
   fetchValue
@@ -173,7 +173,7 @@ function generateMeals() {
         addSnackButton.classList = "snack";
         addSnackButton.addEventListener("click", () => {
           // Pobieramy listę przekąsek z pliku przekaski.json
-          fetch("snacks.json")
+          fetch("https://wuperdev.github.io/diet-me/snacks.json")
             .then((response) => response.json())
             .then((snacks) => {
               // Wybieramy przekąskę o podobnej kaloryczności co pozostałe kalorie
