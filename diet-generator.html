@@ -7,13 +7,14 @@
     <script src="https://kit.fontawesome.com/c89362231f.js" crossorigin="anonymous"></script>
   </head>
   <body>
+    <a href="index.html"><i class="fa-solid fa-circle-arrow-left"></i></a>
     <h1>Generator diety</h1>
     <div id="form">
       <label for="meals">Ilość posiłków:</label>
       <input type="number" id="meals" value="" required/><br /><br />
       <label for="calories">Całkowita kaloryczność:</label>
       <input type="number" id="calories" value="" required/><br /><br />
-      <!-- <p id="calories-input-message"></p> -->
+      <p id="calories-input-message"></p>
       <label for="dietType">Rodzaj diety</label>
       <select id="diet-type" name="diet-type">
         <option value="balanced" selected>Zbilansowana</option>
@@ -25,9 +26,7 @@
       <div id="diet-description">
         Dieta zbilansowana to sposób żywienia, który zapewnia organizmowi
         odpowiednią ilość składników odżywczych, takich jak białko, węglowodany
-        i tłuszcze, aby utrzymać zdrowie i dobrą formę. Typowy rozkład
-        makroskładników w diecie to: 10-35% białka, 45-65% węglowodanów i 20-35%
-        tłuszczów.
+        i tłuszcze, aby utrzymać zdrowie i dobrą formę. 
       </div>
 
       <button id="generate-btn">Generuj</button>
