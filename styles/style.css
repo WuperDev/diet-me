@@ -33,8 +33,9 @@ label {
 }
 
 input[type="number"] {
-  width: 200px;
-  height: 30px;
+  width: 30%px;
+  height: 30%px;
+  font-size: 20px;
   padding: 10px;
   background-color: #f2f2f2;
   border-radius: 5px;
@@ -245,3 +246,15 @@ button.snack{
   
 }
 
+.fa-solid.fa-circle-arrow-left
+{
+  font-size: 50px;
+  margin-top: 10px;
+  margin-left: 5px;
+  cursor: pointer;
+  color: #4CAF50;
+  transition: all 0.3s ease-in-out;
+}
+.fa-solid.fa-circle-arrow-left:hover{
+  color: #454545;
+}
